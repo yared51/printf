@@ -476,12 +476,10 @@ Output:
 
 ## Authors :black_nib:
 
-* Anteneh Kassaw Bizuneh <[Anteneh2121](https://github.com/Anteneh2121)>
-* Tesfay Daniel <[Tesfay](https://github.com/TesfayDaniel)>
+* Yared birhan <[yared51](https://github.com/yared51)>
 
-## License :lock:
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
 
 ## Acknowledgements :pray:
 
